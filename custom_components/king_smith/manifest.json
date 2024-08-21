@@ -9,19 +9,22 @@
             "local_name": "KS-ST-*"
         },
         {
+            "local_name": "R1 Pro"
+        },
+        {
             "local_name": "WalkingPad"
         }
     ],
     "codeowners": [
-        "@indiefan"
+        "@jonwest"
     ],
     "config_flow": true,
     "dependencies": [
         "bluetooth"
     ],
-    "documentation": "https://github.com/indiefan/king_smith",
+    "documentation": "https://github.com/jonwest/king_smith",
     "iot_class": "local_polling",
-    "issue_tracker": "https://github.com/indiefan/king_smith/issues",
+    "issue_tracker": "https://github.com/jonwest/king_smith/issues",
     "requirements": [
         "bleak>=0.18.0",
         "ph4-walkingpad>=0.0.7"

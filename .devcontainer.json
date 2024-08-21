@@ -1,5 +1,5 @@
 {
-    "name": "indiefan/king_smith",
+    "name": "jonwest/king_smith",
     "image": "mcr.microsoft.com/devcontainers/python:3.11-bullseye",
     "appPort": [
         "8125:8125"
